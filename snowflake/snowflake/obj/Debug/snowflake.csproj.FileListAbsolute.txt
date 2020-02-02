@@ -1,0 +1,6 @@
+C:\Users\OOP11\source\repos\snowflake\snowflake\bin\Debug\snowflake.exe.config
+C:\Users\OOP11\source\repos\snowflake\snowflake\bin\Debug\snowflake.exe
+C:\Users\OOP11\source\repos\snowflake\snowflake\bin\Debug\snowflake.pdb
+C:\Users\OOP11\source\repos\snowflake\snowflake\obj\Debug\snowflake.csproj.CoreCompileInputs.cache
+C:\Users\OOP11\source\repos\snowflake\snowflake\obj\Debug\snowflake.exe
+C:\Users\OOP11\source\repos\snowflake\snowflake\obj\Debug\snowflake.pdb
